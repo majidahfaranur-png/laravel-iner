@@ -1,0 +1,4 @@
+/* Tailwind menyusun reset dasar, komponen, dan utilitas yang dipakai oleh halaman. */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
